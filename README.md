@@ -39,4 +39,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 [Deploy to Lyrid!!](http://localhost:3000/login?one-click-deploy=true&origin=github&repository-url=https://github.com/LyridInc/NextJS13-Node18.x-Template.git&env=testing&project-type=nextjs&repo-name=NextJS13-Node18.x-Template).
 
-![Testing](/public/svg/ocd_deploy_to_lyrid.svg "testing Image")
+![Testing](/public/assets/svg/ocd_deploy_to_lyrid.svg "testing Image")
