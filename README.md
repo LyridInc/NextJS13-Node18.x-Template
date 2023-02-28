@@ -43,7 +43,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 <!-- <button></button> -->
 <a href="https://www.google.com"><button>
-<img src="/public/assets/svg/ocd_deploy_to_lyrid.svg" style="height: 100%; width:100%;"/>
+<img src="/public/assets/svg/ocd_deploy_to_lyrid.svg" style="height: 200px; width:200px;"/>
 </button></a>
 
 
