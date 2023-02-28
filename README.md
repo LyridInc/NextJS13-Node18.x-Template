@@ -37,13 +37,12 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-[Deploy to Lyrid!!](http://localhost:3000/login?one-click-deploy=true&origin=github&repository-url=https://github.com/LyridInc/NextJS13-Node18.x-Template.git&env=testing&project-type=nextjs&repo-name=NextJS13-Node18.x-Template).
+<!-- [Deploy to Lyrid!!](http://localhost:3000/login?one-click-deploy=true&origin=github&repository-url=https://github.com/LyridInc/NextJS13-Node18.x-Template.git&env=testing&project-type=nextjs&repo-name=NextJS13-Node18.x-Template). -->
 
-![Testing](/public/assets/svg/ocd_deploy_to_lyrid.svg "testing Image")
-
-<!-- <button></button> -->
-<a href="https://www.google.com"><button>
-<img src="/public/assets/svg/ocd_deploy_to_lyrid.svg" style="height: 200px; width:200px;"/>
-</button></a>
+<a href="[https://www.google.com](http://localhost:3000/login?one-click-deploy=true&origin=github&repository-url=https://github.com/LyridInc/NextJS13-Node18.x-Template.git&env=testing&project-type=nextjs&repo-name=NextJS13-Node18.x-Template)">
+  <button>
+    <img src="/public/assets/svg/ocd_deploy_to_lyrid.svg" style="height: 200px; width:200px;"/>
+  </button>
+</a>
 
 
