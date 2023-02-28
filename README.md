@@ -42,7 +42,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 ![Testing](/public/assets/svg/ocd_deploy_to_lyrid.svg "testing Image")
 
 <!-- <button></button> -->
-<a href="google.com"><button>
+<a href="www.google.com"><button>
 <img src="/public/assets/svg/ocd_deploy_to_lyrid.svg" style="height: 100px; width:100px;"/>
 </button></a>
 
