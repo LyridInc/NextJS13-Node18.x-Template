@@ -39,7 +39,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 <a href="http://localhost:3000/login?one-click-deploy=true&origin=github&repository-url=https://github.com/LyridInc/NextJS13-Node18.x-Template.git&env=testing&project-type=nextjs&repo-name=NextJS13-Node18.x-Template">
   <button>
-    <img src="/public/assets/svg/ocd_deploy_to_lyrid.svg" style="height: 200px; width:200px;"/>
+    <img src="/public/assets/svg/ocd_deploy_to_lyrid.svg" style="height: 100px; width:100px;"/>
   </button>
 </a>
 
