@@ -40,3 +40,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 [Deploy to Lyrid!!](http://localhost:3000/login?one-click-deploy=true&origin=github&repository-url=https://github.com/LyridInc/NextJS13-Node18.x-Template.git&env=testing&project-type=nextjs&repo-name=NextJS13-Node18.x-Template).
 
 ![Testing](/public/assets/svg/ocd_deploy_to_lyrid.svg "testing Image")
+
+<!-- <button></button> -->
+<img src="/assets/img/MarineGEO_logo.png" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
