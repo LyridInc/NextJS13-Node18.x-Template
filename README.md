@@ -37,7 +37,7 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-<a href="http://localhost:3000/login?one-click-deploy=true&origin=github&repository-url=https://github.com/LyridInc/NextJS13-Node18.x-Template.git&env=testing&project-type=nextjs&repo-name=NextJS13-Node18.x-Template">
+<a href="https://app.lyrid.io/login?one-click-deploy=true&origin=github&repository-url=https://github.com/LyridInc/NextJS13-Node18.x-Template.git&env=testing&project-type=nextjs&repo-name=NextJS13-Node18.x-Template">
   <button>
     <img src="/public/assets/svg/ocd_deploy_to_lyrid.svg" style="height: 50px; width:200px;"/>
   </button>
