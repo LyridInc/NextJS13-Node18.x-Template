@@ -22,25 +22,19 @@ The `pages/api` directory is mapped to `/api/*`. Files in this directory are tre
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+## Contact Us
+Have any questions? We are here to help!
+Email us at support@lyrid.io  
 
-To learn more about Next.js, take a look at the following resources:
+### Find us on social medias
+- [Discord](https://discord.com/invite/xtCCtc9WAX)
+- [LinkedIn](https://www.linkedin.com/company/lyrid/?viewAsMember=true)
+- [Twitter](https://twitter.com/LyridInc)
+- [Facebook](https://www.facebook.com/lyridinc)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-
-<a href="https://app.lyrid.io/login?one-click-deploy=true&origin=github&repository-url=https://github.com/LyridInc/NextJS13-Node18.x-Template.git&env=testing&project-type=nextjs&repo-name=NextJS13-Node18.x-Template">
+<a href="https://app.lyrid.io/login?one-click-deploy=true&origin=github&repository-url=https://github.com/LyridInc/NextJS-NodeJS14.x-Template.git&env=empty&project-type=nextjs&repo-name=NextJS-NodeJS14.x-Template">
   <button>
     <img src="/public/assets/svg/ocd_deploy_to_lyrid.svg" style="height: 50px; width:200px;"/>
   </button>
 </a>
-
 
